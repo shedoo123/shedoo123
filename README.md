@@ -1,56 +1,70 @@
 # Hi, I'm Shedoo 👋
 
-Computer Engineering student documenting my journey through technology, systems, and engineering.
+Hi, I'm Shedoo 👋
 
-I am building my foundation in:
+Computer Engineering student exploring the connection between hardware, software, and intelligent systems.
 
-- 3D designs and modelling
-- Cybersecurity
-- Electronics 
+I document my journey through technology, engineering, and problem-solving while building skills in:
+
 - Embedded Systems
+- Cybersecurity
+- Digital Electronics
 - Computer Architecture
 - Software Development
+- 3D Design and Visualization
 
 ---
 
-## 🛠️ Skills & Interests
+🛠️ Skills & Interests
 
-### Systems & Programming
+💻 Systems & Programming
+
 - Linux fundamentals
 - Bash scripting
 - Programming concepts
-- Software development
+- Software development fundamentals
+- System analysis
 
-### Computer Engineering
+⚙️ Computer Engineering
+
 - Digital electronics
 - Logic circuits
 - Microprocessors
 - Computer organization and architecture
 - Embedded systems
-- Circuit and several simulations.
-- Drafting, 3D designs, modelling and animations.
+- Circuit simulation
+- Hardware experiments
+- 3D modelling and technical visualization
 
-### Cybersecurity
+🔐 Cybersecurity
+
 - Cybersecurity fundamentals
-- Linux-based security tools
+- Linux security tools
 - Networking concepts
-- Problem solving and system analysis
+- Security analysis mindset
+- Problem solving
+
+🎨 Design & Visualization
+
+- Blender 3D modelling
+- Animation
+- Technical visualization
 
 ---
 
-## 🚀 Projects & Experiments
+🚀 Projects & Experiments
 
-Currently working on:
+Currently exploring:
 
-- Digital circuit simulations
-- Embedded systems experiments
+- Digital logic circuit simulations
+- Embedded systems projects
 - Linux automation scripts
+- Hardware/software experiments
 - Programming projects
-- Hardware and software projects
 
 ---
 
-## 📚 Currently Learning
+📚 Currently Learning
 
 - Assembly Language Programming
 - Microprocessor Systems and Interfacing
@@ -60,27 +74,34 @@ Currently working on:
 
 ---
 
-## 🎯 Goal
+🎯 Mission
 
-I want to build strong foundations in Computer Engineering and cybersecurity, while developing practical skills through continuous learning, experimentation, and real-world projects.
+To become a highly skilled Computer Engineer by combining:
 
----
+hardware + software + security + creativity
 
-## 🌱 Journey
-
-This GitHub profile is a record of my growth as an engineer — documenting what I learn, build, and improve along the way.
+and continuously building practical projects that solve real problems.
 
 ---
 
-## 📫 Connect With Me
+🌱 Journey
+
+This GitHub profile is my engineering laboratory — a record of what I learn, build, test, and improve.
+
+---
+
+📫 Connect
 
 Discord: shedoo_12
 
 ---
 
 ⚡ Fun fact:
-I enjoy understanding how systems work from the lowest level — from circuits and processors to software and security.
 
-## 📊 GitHub Stats
+I enjoy understanding systems from the lowest level — from electrical signals and circuits to processors, operating systems, and cybersecurity.
 
-![Shedoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shedoo123&show_icons=true)
+---
+
+📊 GitHub Stats
+
+"Shedoo's GitHub stats" (https://github-readme-stats.vercel.app/api?username=shedoo123&show_icons=true)
