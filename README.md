@@ -79,3 +79,7 @@ Discord: shedoo_12
 
 ⚡ Fun fact:
 I enjoy understanding how systems work from the lowest level — from circuits and processors to software and security.
+
+## 📊 GitHub Stats
+
+![Shedoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shedoo123&show_icons=true)
