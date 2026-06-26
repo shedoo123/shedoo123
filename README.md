@@ -1,6 +1,6 @@
 - 👋 Hi, I’m De Real Shedoo
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java and Python Programming
+- 👀 I’m interested in coding, networking and electronics.
+- 🌱 I’m currently pursuing a degree in Computer engineering.
 - 💞️ I’m looking to collaborate on Web and App development
 - 📫 How to reach me
 - 😄 Pronouns: He
