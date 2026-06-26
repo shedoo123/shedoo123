@@ -4,9 +4,9 @@ Computer Engineering student documenting my journey through technology, systems,
 
 I am building my foundation in:
 
-- Linux
+- 3D designs and modelling
 - Cybersecurity
-- Digital Electronics
+- Electronics 
 - Embedded Systems
 - Computer Architecture
 - Software Development
@@ -27,7 +27,8 @@ I am building my foundation in:
 - Microprocessors
 - Computer organization and architecture
 - Embedded systems
-- Circuit simulation
+- Circuit and several simulations.
+- Drafting, 3D designs, modelling and animations.
 
 ### Cybersecurity
 - Cybersecurity fundamentals
@@ -61,7 +62,7 @@ Currently working on:
 
 ## 🎯 Goal
 
-To build strong foundations in Computer Engineering and cybersecurity, while developing practical skills through continuous learning, experimentation, and real-world projects.
+I want to build strong foundations in Computer Engineering and cybersecurity, while developing practical skills through continuous learning, experimentation, and real-world projects.
 
 ---
 
